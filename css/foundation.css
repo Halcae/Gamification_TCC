@@ -22,6 +22,12 @@
   padding: 10px 10px 10px 10px;
 }
 
+.badge_page{
+  width: 150px;
+  padding: 10px 10px 10px 10px;
+
+}
+
 a.logo {
   color:#ffffff;
   text-decoration: none;
